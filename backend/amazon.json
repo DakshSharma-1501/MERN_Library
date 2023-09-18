@@ -1,0 +1,57 @@
+[
+    {
+      "_id": { "$oid": "6504300a0dbf4d4c55d734a0" },
+      "bookname": "Book by daksh",
+      "description": "Best seller",
+      "author": "test",
+      "image": "https://media.licdn.com/dms/image/D5603AQE9tRkO9erZhw/profile-displayphoto-shrink_800_800/0/1690564494836?e=2147483647&v=beta&t=ofDdbFDRcddmJXqHrZ1zaCneS0M_-x8hmKBgYXrTDyo",
+      "price": { "$numberInt": "100" },
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "_id": { "$oid": "65043b530dbf4d4c55d734a2" },
+      "bookname": "How to Win Friends and Influence People Deluxe Hardbound Edition",
+      "description": "“You can make more friends in two months by becoming interested in other people than you can in two years by trying to get other people interested in you.” From the fundamental techniques in handling people to the various ways to make them like you, Dale Carnegie’s How to Win Friends & Influence People insights on how to win people to your way of thinking; how to increase your ability to get things done; the ways to be a leader and change people without arousing resentment; and how to make friends quickly. With gilded edges, beautiful endpapers, and a ribbon bookmark, this exquisitely designed hardbound edition is to be read and treasured. This is a phenomenal book that has been an inspiration for many of those who are now famous and successful. With principles that stand as relevant in modern times as ever before, it continues to help people on their way to success.",
+      "author": "Dale Carnegie",
+      "image": "https://m.media-amazon.com/images/I/71rjriZD+qL._SY522_.jpg",
+      "price": { "$numberInt": "700" },
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "_id": { "$oid": "65043c990dbf4d4c55d734a4" },
+      "bookname": "Think Straight: Change your thoughts, Change your life [Paperback] Foroux, Darius",
+      "description": "This international bestseller, featuring a bonus chapter previously available only to Darius' online subscribers, is available in India for the first time.",
+      "author": "Darius Foroux",
+      "image": "https://m.media-amazon.com/images/I/71Yb9hJXocL._SY522_.jpg",
+      "price": { "$numberInt": "125" },
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "_id": { "$oid": "65043db424281c960bda64e4" },
+      "bookname": "The Monk Who Sold His Ferrari Paperback",
+      "description": "This international bestseller, featuring a bonus chapter previously available only to Darius' online subscribers, is available in India for the first time.",
+      "author": "Robin Sharma",
+      "image": "https://m.media-amazon.com/images/I/61OByUf1TfL._SY522_.jpg",
+      "price": { "$numberInt": "219" },
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "_id": { "$oid": "65043e5c24281c960bda64e6" },
+      "bookname": "Doglapan: The Hard Truth about Life ",
+      "description": "This is the unfettered story of Ashneer Grover-the favourite and misunderstood poster boy of Start-up India.",
+      "author": "Ashneer Grover",
+      "image": "https://m.media-amazon.com/images/I/81InFh0R4UL._SY522_.jpg",
+      "price": { "$numberInt": "305" },
+      "__v": { "$numberInt": "0" }
+    },
+    {
+      "_id": { "$oid": "65072c8a5e596f23b4076ecc" },
+      "bookname": "The Power of Your Subconscious Mind",
+      "description": "i can read you",
+      "author": "Joseph Murphy",
+      "image": "https://m.media-amazon.com/images/I/51QnuLIY2uL._SY445_SX342_.jpg",
+      "price": { "$numberInt": "600" },
+      "__v": { "$numberInt": "0" }
+    }
+  ]
+  
